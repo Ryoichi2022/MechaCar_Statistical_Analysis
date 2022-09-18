@@ -4,17 +4,24 @@ Challenge 15
 ## Linear regression to predict MPG
 Based on the coefficients that resulted from the analysis, vehicle length and ground clearance provide a non-random amount of variance to the mpg (mile per gallon) values. The coefficients are 6.267 and 3.546, respectively.
 
+(Picture 1) Linear model coefficients
+![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png)
+
 When a slope is zero, the line becomes horizontal, where y-coordinates never change regardless of x-coordinates. The slope of the linear model will not be zero, as the y-coordinates change depending on the x-coordinates in the dataset.
 
-The linear model would not predict mpg of MechaCar prototypes effectively because the intercept of the model is also significant. This indicates that there could be other variables that would better explain the variability of the mpg. 
+The linear model would not predict mpg of MechaCar prototypes effectively because the intercept of the model is also significant. This indicates that there could be other variables that would better explain the variability of the mpg.
+
+(Picture 2) Significance level of coefficients
+![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Regression_sig_level.png)
+
+
+## Summary Statistics on Suspension Coils
+
+### Design specification of the total lot
+As shown in Table 1, the difference between the mean and median is 1.22, which is 0.0814% of the mean value. As the mean and median are close to each other, the data is considered to be normally distributed, where 68.27%, 95.45%, and 99.73% of the values respectively lie within one, two, and three standard deviations of the mean.
 
 
 
-
-
-# Analysis on Ride-sharing Services
-
-## 1. Overview of Analysis
 The purpose of the project was to perform an exploratory analysis on data regarding PyBer’s ride-sharing services. By showcasing the relationship between the type of city and the number of drivers or rides as well as the average fares per drivers and rides by type of city, the analysis is expected to help PyBer improve access to ride-sharing services and determine affordability for underserved areas.
 
 ## 2. Results
