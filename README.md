@@ -6,7 +6,7 @@ Based on the coefficients that resulted from the analysis, vehicle length and gr
 
 (Picture 1) Linear model coefficients
 
-<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png" width="100"/>
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png" width="300"/>
 
 ### ![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png)
 
