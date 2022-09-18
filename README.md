@@ -32,7 +32,30 @@ By applying the rule, 99.73%, or effectively 100%, of the values fall within the
 In the same way, the mean and median are close to each other in every lot (Table 2). Effectively all values will lie the range of 1497.03 up to 1502.97 in Lot 1, 1492.00 up to 1508.40 in Lot 2, and 1456.99 up to 1535.29 in Lot 3. This means that the suspension coil specification would be met in each lot individually.
 
 (Table 2) Test result by lot
+
 <img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/PSI_Lot.png" width="500"/>
 
 
 ## T-Tests on Suspension Coils (Deliverable 3)
+The analysis was performed to test the null hypothesis that there is no statistical difference between the observed sample mean and the population mean. Where assumption is that significance level is 0.05, the two means will be statistically similar when the p-value is above 0.05.
+
+According to the test results shown below, the p=values are 1, 9.35e-12, 0.0005082, and 0.1549 for total lot, Lot 1, Lot 2, and Lot 3, respectively. Therefore, the sample of total lot and Lot 3 calculate a similar mean to the population mean.
+
+(Picture 3) Total lot t-test result
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/t-test_Total.png" width="400"/>
+
+
+(Picture 4) Lot 1 t-test result
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/t-test_Lot1.png" width="400"/>
+
+
+(Picture 5) Lot 2 t-test result
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/t-test_Lot2.png" width="400"/>
+
+
+(Picture 6) Lot 3 t-test result
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/t-test_Lot3.png" width="400"/>
