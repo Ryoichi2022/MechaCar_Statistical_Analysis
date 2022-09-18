@@ -6,16 +6,15 @@ Based on the coefficients that resulted from the analysis, vehicle length and gr
 
 (Picture 1) Linear model coefficients
 
-<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png" width="300"/>
-
-### ![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png)
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png" width="400"/>
 
 When a slope is zero, the line becomes horizontal, where y-coordinates never change regardless of x-coordinates. The slope of the linear model will not be zero, as the y-coordinates change depending on the x-coordinates in the dataset.
 
 The linear model would not predict mpg of MechaCar prototypes effectively because the intercept of the model is also significant. This indicates that there could be other variables that would better explain the variability of the mpg.
 
 (Picture 2) Significance level of coefficients
-![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Regression_sig_level.png)
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Regression_sig_level.png" width="400"/>
 
 
 ## Summary Statistics on Suspension Coils
