@@ -5,7 +5,10 @@ Challenge 15
 Based on the coefficients that resulted from the analysis, vehicle length and ground clearance provide a non-random amount of variance to the mpg (mile per gallon) values. The coefficients are 6.267 and 3.546, respectively.
 
 (Picture 1) Linear model coefficients
-![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png)
+
+<img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png" width="100"/>
+
+### ![](https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/Result_Lregression.png)
 
 When a slope is zero, the line becomes horizontal, where y-coordinates never change regardless of x-coordinates. The slope of the linear model will not be zero, as the y-coordinates change depending on the x-coordinates in the dataset.
 
