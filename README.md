@@ -59,3 +59,23 @@ According to the test results shown below, the p=values are 1, 9.35e-12, 0.00050
 (Picture 6) Lot 3 t-test result
 
 <img src="https://github.com/Ryoichi2022/MechaCar_Statistical_Analysis/blob/main/t-test_Lot3.png" width="400"/>
+
+
+## Study Design: MechaCar vs Competition (Deliverable 4)
+
+### Statistical study description
+While the automobile market is suffering a severe competition, mileage or fuel efficiency, as well as cost, is of interest to customers. As the fuel price continues to rise, automobiles with high fuel efficiency would be attractive to customers.
+
+### Metric to be tested
+With regard to fuel efficiency, mile per gallon (mpg) is going to be tested. Engine size, vehicle size, and vehicle weight will affect mpg.
+
+### Null hypothesis and alternative hypothesis
+When mpg is tested, the null hypothesis would be that there is no statistical difference between the mpg mean of MechaCar prototypes and the mpg mean of other vehicles. The alternative hypothesis would be that there is a statistical difference between the mpg mean of MechaCar prototypes and the mpg mean of other vehicles.
+
+### Statistical test for the hypothesis
+A t-test will be performed to test the hypothesis because the test compares the mean of one dataset to another under a few assumptions. The test is expected to assert similarity or difference in the datasets.
+
+### Data necessary for t-test
+Using R, the t-test can be performed when the following data are available:
+* The numeric vector of the MechaCar’s data.
+* The calculated mean of the population data.
