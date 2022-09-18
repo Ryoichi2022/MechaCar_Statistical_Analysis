@@ -78,4 +78,4 @@ A t-test will be performed to test the hypothesis because the test compares the 
 ### Data necessary for t-test
 Using R, the t-test can be performed when the following data are available:
 * The numeric vector of the MechaCar’s data.
-* The calculated mean of the population data.
+* The calculated mean of other vehicles' data.
